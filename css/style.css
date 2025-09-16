@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+}
+
+header ul li {
+  display: inline-block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 80px;
+}
+
+header ul li::before {
+  position: absolute;
+  left: 20px;
+  font-weight: normal;
+  color: #000;
+}
+
+header img {
+  width: 161px;
+}
