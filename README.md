@@ -24,9 +24,6 @@ Por que foi construído
 
 ### Educacional e não comercial
 
-## Contribuição 
-
-Exemplo que padrões devem seguir para contribuir 
 
 ## Contribuidores
 
