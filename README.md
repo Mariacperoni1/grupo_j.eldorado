@@ -10,11 +10,8 @@ Ele foi construído usando PHP puro no BackEnd, com apoio de ferramentas como Co
 No FrontEnd, foram utilizados HTML, CSS, Bootstrap e JavaScript, tudo sem frameworks adicionais.
 
 ## Como clonar o Repositório
-''' Abra o CMD e, tendo o git instalado, digite o comando:
-git clone URL_DO_PROJETO ''' 
  
-
-``` formato de código ```
+```Abra o CMD e, tendo o git instalado, digite o comando: git clone URL_DO_PROJETO  ```
 
 ## Licença 
 Este projeto foi desenvolvido exclusivamente para fins de estudo, inspiração e consulta.
@@ -27,9 +24,5 @@ Todo o conteúdo, código, textos, imagens e demais materiais presentes neste re
 
 ## Contribuidores
 
-Nome	Função
-Luigi de Souza	Back-End
-Gustavo de Paula	Front-End
-Gabriel Santos	Prototipação
-Maria Clara Peroni	Documentação
+<table> <tr> <th>Nome</th> <th>Função</th> </tr> <tr> <td>Luigi de Souza</td> <td>Back-End</td> </tr> <tr> <td>Gustavo de Paula</td> <td>Front-End</td> </tr> <tr> <td>Gabriel Santos</td> <td>Prototipação</td> </tr> <tr> <td>Maria Clara Peroni</td> <td>Documentação</td> </tr> </table>
 
